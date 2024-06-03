@@ -1,0 +1,17 @@
+{
+    "name": "aguiardg/projeto-buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AguiarDG\\ProjetoBuscadorCursosAlura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AguiarDG",
+            "email": "aguiardg90@gmail.com"
+        }
+    ],
+    "require": {}
+}
