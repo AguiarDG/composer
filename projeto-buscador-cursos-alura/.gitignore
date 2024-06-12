@@ -1,0 +1,4 @@
+# Criando arquivo de git ignore para ignorar pastas não utilizadas e que poder ser instaladar com o comando de "composer install"
+
+vendorcomposer.phar
+/vendor/
